@@ -1,6 +1,3 @@
-
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
-
 **NOTE: This package is not registered on Packagist and is abandoned. It's only being use in a few internal projects at Spatie**
 
 # Trait to Manage an Eloquent Model's Related Content
